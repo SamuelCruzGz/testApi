@@ -1,0 +1,40 @@
+*{
+    background-color: #032044;
+}
+#logo{
+    
+    position: absolute;
+    top: 10%;
+    right: 40%;
+    
+}
+
+input[type="text"]{
+    background-color: lightgray;
+    color: black;
+    padding: 4px 50px;
+    position: absolute;
+    top: 26%;
+    right: 40%;
+}
+
+.search-icon{
+    background-color: grey;
+    color: black;
+    padding: 4px 50px;
+    position: absolute;
+    top: 30%;
+    right: 43%;
+}
+
+#principal h1{
+    font-size: 15px;
+    color: lightblue;
+    border-radius: 1px solid white;
+}
+
+#principal{
+    position: absolute;
+    top: 40%;
+    right: 46%;
+}
